@@ -1,4 +1,4 @@
-package estruturaDeDados;
+package estruturaDeDados.no;
 
 public class No<T> {
 

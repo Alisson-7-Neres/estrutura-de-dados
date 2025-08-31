@@ -1,4 +1,4 @@
-package estruturaDeDados;
+package estruturaDeDados.stack;
 
 public class Pilha {
 	
